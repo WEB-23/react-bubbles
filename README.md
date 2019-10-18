@@ -28,7 +28,7 @@ In this project you will create a login page and request a token from the server
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
-- [ ] Explain what a token is used for.
+- [ ] Explain what a token is used for..
 
   A token is use to authenticate a user who visits our site and tries and access protected routes.
 
